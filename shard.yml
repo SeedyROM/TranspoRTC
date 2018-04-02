@@ -1,0 +1,13 @@
+name: transportc
+version: 0.1.0
+
+authors:
+  - Zack Kollar (SeedyROM) <rallokkcaz@gmail.com>
+
+targets:
+  transportc:
+    main: src/transportc.cr
+
+crystal: 0.24.2
+
+license: MIT
